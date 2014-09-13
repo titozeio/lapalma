@@ -1,0 +1,37 @@
+<config>
+	<appName>Bando</appName>
+	<version>1.0</version>
+	<logo>assets/huelva_logo.png</logo>
+	<back>assets/volver.png</back>
+	<reload>assets/reload.png</reload>
+	<header>assets/cabecera.png</header>
+
+	<urlAndroidApp>urlAndroid</urlAndroidApp>
+	<urliOsApp>http://flash3.todostreaming.es/huelvatv/livestream/playlist.m3u8</urliOsApp>
+	<twitterChannel>#Titozeio</twitterChannel>
+	<home>http://www.huelva.es/opencms/opencms/ayunhuelva/rss/portada.xml</home>
+	<channels>
+		<channel>
+			<name>Canal 1</name>
+			<url>http://www.huelva.es/opencms/opencms/ayunhuelva/rss/portada.xml</url>
+			<image></image>
+		</channel>
+		<channel>
+			<name>Canal 2</name>
+			<url>http://www.huelva.es/opencms/opencms/ayunhuelva/rss/portada.xml</url>
+			<image></image>
+		</channel>
+		<channel>
+			<name>Canal 3</name>
+			<url>http://www.huelva.es/opencms/opencms/ayunhuelva/rss/portada.xml</url>
+			<image></image>
+		</channel>
+	</channels>
+	<mainColor>#0089cd</mainColor>
+	<tvChannelAndroid>rtsp://flash3.todostreaming.es/huelvatv/livestream</tvChannelAndroid>
+	<tvChanneliOs>http://www.chococorp.com/nf/video.html</tvChanneliOs>
+	<banner>
+		<image>http://www.chococorp.com/nf/sample_banner.png</image>
+		<url>http://www.chococorp.com</url>
+	</banner>
+</config>

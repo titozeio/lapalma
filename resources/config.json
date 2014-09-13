@@ -1,0 +1,12 @@
+{
+	"header":"assets/cabecera.png",
+	"header_logo":"assets/cabecera_logo.png",
+	"header_logo":"assets/cabecera_logo.png",
+	"back":"assets/volver.png",
+	"footer":"assets/pie.png",
+	"reload":"assets/reload.png",
+	"inicio":"assets/inicio.png",
+	"portadas":"assets/portadas.png",
+	"canales":"assets/canales.png",
+	"video":"assets/video.png"
+}

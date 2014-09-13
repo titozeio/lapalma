@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7647da3a971804b64dea3f2b40294f09:c9c6339562c8c4672c363d660278a8e3:57ef0b4f36012e2dacefebfa7d58e2d4$ -->
+<TextureAtlas imagePath="assets.png">
+    <SubTexture name="cabecera" x="2" y="99" width="640" height="88"/>
+    <SubTexture name="facebook" x="1010" y="2" width="94" height="73" frameX="-17" frameY="-21" frameWidth="122" frameHeight="101"/>
+    <SubTexture name="facebook_on" x="644" y="2" width="120" height="89" frameX="-1" frameY="-9" frameWidth="122" frameHeight="101"/>
+    <SubTexture name="foot" x="2" y="2" width="640" height="95"/>
+    <SubTexture name="logo" x="1050" y="77" width="71" height="85" frameX="-75" frameY="-2" frameWidth="233" frameHeight="87"/>
+    <SubTexture name="participa" x="914" y="174" width="84" height="73" frameX="-20" frameY="-25" frameWidth="122" frameHeight="101"/>
+    <SubTexture name="portada" x="888" y="93" width="104" height="79" frameX="-8" frameY="-19" frameWidth="122" frameHeight="101"/>
+    <SubTexture name="portada_on" x="644" y="93" width="120" height="89" frameX="-1" frameY="-9" frameWidth="122" frameHeight="101"/>
+    <SubTexture name="radio" x="994" y="93" width="54" height="77" frameX="-33" frameY="-17" frameWidth="122" frameHeight="101"/>
+    <SubTexture name="radio_on" x="766" y="2" width="120" height="89" frameX="-1" frameY="-9" frameWidth="122" frameHeight="101"/>
+    <SubTexture name="reload" x="124" y="189" width="76" height="64" frameX="-9" frameY="-12" frameWidth="92" frameHeight="88"/>
+    <SubTexture name="reload_on" x="772" y="184" width="82" height="70" frameX="-6" frameY="-9" frameWidth="92" frameHeight="88"/>
+    <SubTexture name="twitter" x="1000" y="172" width="68" height="73" frameX="-26" frameY="-21" frameWidth="122" frameHeight="101"/>
+    <SubTexture name="twitter_on" x="766" y="93" width="120" height="89" frameX="-1" frameY="-9" frameWidth="122" frameHeight="101"/>
+    <SubTexture name="video" x="856" y="184" width="56" height="69" frameX="-33" frameY="-25" frameWidth="122" frameHeight="101"/>
+    <SubTexture name="video_on" x="888" y="2" width="120" height="89" frameX="-1" frameY="-9" frameWidth="122" frameHeight="101"/>
+    <SubTexture name="volver" x="2" y="189" width="120" height="64" frameX="-10" frameY="-12" frameWidth="142" frameHeight="88"/>
+    <SubTexture name="volver_on" x="644" y="184" width="126" height="70" frameX="-7" frameY="-9" frameWidth="142" frameHeight="88"/>
+</TextureAtlas>
